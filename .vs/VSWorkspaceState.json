@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules\\parse5",
+    "\\node_modules\\parse5\\lib",
+    "\\node_modules\\parse5\\lib\\extensions",
+    "\\node_modules\\parse5\\lib\\extensions\\error-reporting",
+    "\\node_modules\\parse5\\lib\\extensions\\location-info",
+    "\\node_modules\\parse5\\lib\\parser",
+    "\\node_modules\\sockjs-client\\dist",
+    "\\node_modules\\sockjs-client\\lib",
+    "\\node_modules\\webpack\\lib",
+    "\\src"
+  ],
+  "PreviewInSolutionExplorer": false
+}
